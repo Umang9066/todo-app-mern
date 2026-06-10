@@ -125,7 +125,10 @@ npm start
 
 ## 📸 Screenshots
 
-> Add screenshots of your running application here.
+<img width="1919" height="871" alt="Screenshot 2026-06-11 025617" src="https://github.com/user-attachments/assets/32ddff35-9270-4426-ba1c-256109bea0e1" />
+<img width="1919" height="871" alt="Screenshot 2026-06-11 030510" src="https://github.com/user-attachments/assets/5bab065a-33fd-40dc-8839-9d738d47c471" />
+<img width="1919" height="874" alt="Screenshot 2026-06-11 030453" src="https://github.com/user-attachments/assets/fa774430-6d45-487a-bd70-3fa03313eb57" />
+
 
 ---
 
